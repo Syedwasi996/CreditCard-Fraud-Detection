@@ -18,7 +18,10 @@ This project detects fraudulent credit card transactions using **machine learnin
 - Jupyter Notebook
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Syedwasi996/CreditCard-Fraud-Detection
+1. **Download** the `CreditCardFraud_Isolation_Forest.ipynb` file from this repository.
+2. Open it in **Jupyter Notebook**.
+3. Run the notebook to see fraud detection results.
 
+---
+
+⭐ **If you found this project useful, consider giving it a star!**
