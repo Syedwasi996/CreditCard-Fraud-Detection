@@ -20,5 +20,5 @@ This project detects fraudulent credit card transactions using **machine learnin
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Syedwasi996/CreditCard-Fraud-Detection.git
+   git clone https://github.com/Syedwasi996/CreditCard-Fraud-Detection
 
